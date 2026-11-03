@@ -1,0 +1,26 @@
+실습2 - 승인할 것인가
+
+1. 수락 - 내가 요청함
+2. 수락 - 내가 요청함
+3. 다르게 지시 - 작업 폴더 안의 일이다
+4. 다르게 지시 - 작업 폴더 안의 일이다
+5. 수락 - 되돌릴 수 있다
+6. 거절 - 되돌릴 수 없다
+
+맡기기 4단계 - 도구 호출 순서를 유인물에 적기
+
+1.  Read - average_pandas.py
+2.  Read - average_plain.py
+3.  Read - check.py
+4.  Read - scores.csv
+
+맡기기 5단계 - 답이 맞는지 직접 열어 확인하기
+
+1. scores.csv > O
+2. average_plain.py > O
+3. average_pandas.py > X (표 형태로 나오지 않음)
+4. cheak.py > O
+
+두 설명을 나란히 비교하기
+
+받는 값의 형식 
